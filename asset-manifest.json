@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Cyber-Knights-React/static/css/main.d0ea7f52.css",
+    "main.js": "/Cyber-Knights-React/static/js/main.ee8bd2be.js",
+    "static/js/787.4d5911cb.chunk.js": "/Cyber-Knights-React/static/js/787.4d5911cb.chunk.js",
+    "static/media/contactimg.jpg": "/Cyber-Knights-React/static/media/contactimg.930b7f4a2a0964cc1c85.jpg",
+    "static/media/aboutimg.jpg": "/Cyber-Knights-React/static/media/aboutimg.a8b27b5132b5392e0ec3.jpg",
+    "static/media/homebg.jpg": "/Cyber-Knights-React/static/media/homebg.5842ba49ff50b425d2ad.jpg",
+    "static/media/logo.png": "/Cyber-Knights-React/static/media/logo.4572adbe2ec42c1b626d.png",
+    "static/media/twitter-circled.png": "/Cyber-Knights-React/static/media/twitter-circled.c5354b5d74d955d6e6c0.png",
+    "static/media/servicesimg4.jpeg": "/Cyber-Knights-React/static/media/servicesimg4.4a3fee5fb0c381393866.jpeg",
+    "static/media/servicesimg.jpeg": "/Cyber-Knights-React/static/media/servicesimg.09031094e98244015626.jpeg",
+    "static/media/servicesimg3.jpeg": "/Cyber-Knights-React/static/media/servicesimg3.c2c66d9c1483dcaed1e9.jpeg",
+    "index.html": "/Cyber-Knights-React/index.html",
+    "main.d0ea7f52.css.map": "/Cyber-Knights-React/static/css/main.d0ea7f52.css.map",
+    "main.ee8bd2be.js.map": "/Cyber-Knights-React/static/js/main.ee8bd2be.js.map",
+    "787.4d5911cb.chunk.js.map": "/Cyber-Knights-React/static/js/787.4d5911cb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d0ea7f52.css",
+    "static/js/main.ee8bd2be.js"
+  ]
+}
