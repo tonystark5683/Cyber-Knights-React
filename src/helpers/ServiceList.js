@@ -7,19 +7,20 @@ import servicesimg4 from "../assets/servicesimg4.jpeg";
 export const ServicesList = [
   {
     name: "Network IDS",
-    image: servicesimg
+    image: servicesimg,
+    
   },
-  {
-    name: "Web-Based NIDS",
-    image: servicesimg2
-  },
-  {
-    name: "Cloud-Based NIDS",
-    image: servicesimg3
-  },
-  {
-    name: "IOT-Based NIDS",
-    image: servicesimg4
-  },
+  // {
+  //   name: "Web-Based NIDS",
+  //   image: servicesimg2
+  // },
+  // {
+  //   name: "Cloud-Based NIDS",
+  //   image: servicesimg3
+  // },
+  // {
+  //   name: "IOT-Based NIDS",
+  //   image: servicesimg4
+  // },
 
 ];

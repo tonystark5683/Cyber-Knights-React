@@ -6,7 +6,7 @@ import Service from "./pages/Service";
 import About from "./pages/About";
 import Contact from "./pages/Contact";
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
-
+import Axios from "./Axios";
 function App() {
   return (
     <div className="App">
@@ -19,6 +19,7 @@ function App() {
           <Route path="/contact" element={<Contact />} />
         </Routes>
         <Footer />
+        {/* <Axios/> */}
       </Router>
     </div>
   );

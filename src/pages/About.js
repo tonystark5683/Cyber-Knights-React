@@ -10,7 +10,7 @@ function About() {
       ></div>
       <div className="aboutBottom">
         <h1> ABOUT US</h1>
-        <span><p>
+        <span className="Spann"><p>
         Welcome to Cyber Knight, your trusted partner in safeguarding your 
         digital assets from cyber threats. We specialize in providing cutting-edge 
         intrusion detection systems designed to protect against a wide range of intrusions,

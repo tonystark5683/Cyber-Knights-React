@@ -34,6 +34,11 @@
   .aboutBottom span {
     width: auto;
     margin-bottom: auto;
+    font-size: 2vh;
+  }
+  .Spann{
+    text-align: center;
+    padding: 0 100px 0 100px;
   }
   
   /* .about .aboutBottom h1 {
